@@ -43,6 +43,7 @@ group :development, :test do
 	gem 'launchy'
 	gem 'capybara'
 	gem 'selenium-webdriver'
+	gem 'poltergeist'
 
 	gem 'pry-rails'
 	gem 'pry-doc'
